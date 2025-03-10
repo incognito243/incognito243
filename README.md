@@ -36,7 +36,8 @@
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white&style=for-the-badge)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white&style=for-the-badge)](#)
-
+<!---
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=incognito243&show_icons=true&locale=en&layout=compact" alt="incognito243" />
 </p>
+-->
