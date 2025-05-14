@@ -1,7 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/e906369b-dd35-46bf-9459-032de1259bfa)
-<h1 align="center">Hi 👋, I'm Chien "incognito" Nguyen Minh</h1>
-<h3 align="center">Web3 builder, BE engineer from Vietnam. Don’t ask why I’m "incognito" 😉</h3>
+<h1 align="center">Hi 👋, I'm Chien "Cody" Nguyen Minh</h1>
+<h3 align="center">Web3 builder, BE engineer from Vietnam. You can call me Cody or Incognito. 😉</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incognito243&label=Profile%20views&color=0e75b6&style=flat" alt="incognito243" /> </p>
 
